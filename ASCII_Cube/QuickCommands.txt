@@ -1,0 +1,3 @@
+cd Downloads\3D Graphics\C++ files\ASCII_Cube
+
+g++ cube.cpp -o cube.exe
